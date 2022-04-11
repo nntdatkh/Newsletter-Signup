@@ -1,0 +1,4 @@
+.DS_Store
+## Pod files
+# ignore specific file: Prodfile
+# ignore all file are .txt || .js ....: *.txt
